@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 
 <h1>
-  Hey there
+  Hey there!! Myself Bala
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h1>Get in touch with me via👇<h1/>
+<h1 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" height="40" style="margin-right: 10px;"> <b>Connect with me<b/> 🤝 </h1>
 <div id="badges">
   <a href="https://www.linkedin.com/in/bala-e/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=SivaSurender&style=flat-square&color=blue" alt=""/>
+<img align="center" src="https://komarev.com/ghpvc/?username=SivaSurender&style=flat-square&color=blue" alt=""/>
 
 
 ---
@@ -92,4 +92,11 @@ Myself a work in progress Frontend Engineer ♠⚜ <img src="https://media.giphy
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SivaSurender&theme=dark&background=000000)](https://git.io/streak-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaSurender&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### ✨My Recent Activity :
+  <br/>
+   <a href="https://github.com/Candida18"><img alt="Bala_SS's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SivaSurender&custom_title=%20%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
 
