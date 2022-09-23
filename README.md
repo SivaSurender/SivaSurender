@@ -65,7 +65,7 @@ Myself a work in progress Frontend Engineer ♠⚜ <img src="https://media.giphy
 
 - :zap: In my free time, I play games, eat, watch stuff and know things.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bala-e/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BalaSS-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bala-e/)
 
 ---
 
@@ -80,6 +80,10 @@ Myself a work in progress Frontend Engineer ♠⚜ <img src="https://media.giphy
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" **alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="Github" **alt="Github" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" **alt="VS Code" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Putty" **alt="Putty" width="40" height="40"/>
+  
+  
 </div>
 
 ---
