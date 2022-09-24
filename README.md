@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://komarev.com/ghpvc/?username=SivaSurender&style=flat-square&color=blue" alt=""/>
 
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ---
   <h1>Well🤪 </h>
 <div align="center">
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <br/>
 
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### :man_technologist: About Me :
 Myself a work in progress Frontend Engineer ♠⚜ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -66,6 +66,7 @@ Myself a work in progress Frontend Engineer ♠⚜ <img src="https://media.giphy
 - :zap: In my free time, I play games, eat, watch stuff and know things.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BalaSS-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bala-e/)
+📫 [![Gmail Badge](https://img.shields.io/badge/-e.surender14@gmail.com-white?style=flat-roundedrectangle&logo=Gmail&logoColor=red&link=mailto:e.surender14@gmail.com)](e.surender14a@gmail.com)
 
 ---
 
