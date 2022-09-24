@@ -101,4 +101,15 @@ Myself a work in progress Frontend Engineer ♠⚜ <img src="https://media.giphy
    <a href="https://github.com/Candida18"><img alt="Bala_SS's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SivaSurender&custom_title=%20%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
+----
+
+### 😜Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+----
+
+<h1>Thank You! 🤵 </h1>
+<Br>
+
+------
 
