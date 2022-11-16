@@ -91,8 +91,9 @@ Myself a work in progress Frontend Engineer ♠⚜ <img src="https://media.giphy
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SivaSurender&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SivaSurender&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 <br/>
+  <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaSurender&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
