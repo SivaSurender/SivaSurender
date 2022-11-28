@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### :man_technologist: About Me :
-Myself a work in progress Frontend Engineer ♠⚜ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m working as a System Engineer and contributing in building/enhancing web applications.
+Myself an Engineer ♠⚜ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: An active contributor/ commitor  in building/enhancing web applications.
 
 - :seedling: Exploring interesting stuff over web.
 
