@@ -27,19 +27,19 @@ Here are some ideas to get you started:
 
 <h1 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" height="40" style="margin-right: 10px;"> <b>Connect with me<b/> 🤝 </h1>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/bala-e/">
+  <a href="https://www.linkedin.com/in/bala-e/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/im_sivasurender/?hl=en">
+  <a href="https://www.instagram.com/im_sivasurender/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/Im_SivaSurender">
+  <a href="https://twitter.com/Im_SivaSurender" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.facebook.com/bala.surender.7">
+  <a href="https://www.facebook.com/bala.surender.7" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://sivasurender.github.io/BalaPortfolio/">
+  <a href="https://sivasurender.github.io/BalaPortfolio/" target="_blank">
     <img src="https://img.shields.io/badge/My Portfolio-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" alt="Bio Badge"/>
   </a>
 </div>
