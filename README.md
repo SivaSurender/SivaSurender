@@ -99,10 +99,12 @@ Myself an Engineer ♠⚜ <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ![BalaSS's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivaSurender&show_icons=true&theme=transparent)
 
 ---
-### ✨My Recent Activity :
-  <br/>
-   <a href="https://github.com/Candida18"><img alt="Bala_SS's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SivaSurender&custom_title=%20%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+## <b>💪Quote || Fact</b>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
+
+<br>
 
 ----
 
