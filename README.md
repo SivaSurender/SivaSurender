@@ -25,29 +25,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h1 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" height="40" style="margin-right: 10px;"> <b>Connect with me<b/> 🤝 </h1>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/bala-e/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<!--   <a href="https://www.instagram.com/im_sivasurender/?hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/Im_SivaSurender" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.facebook.com/bala.surender.7" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://sivasurender.github.io/BalaPortfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/My Portfolio-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" alt="Bio Badge"/>
-  </a> -->
-  <img align="center" src="https://komarev.com/ghpvc/?username=SivaSurender&style=flat-square&color=blue" alt=""/>
-</div>
-
-
-
-
 
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   <h1>Well🤪 </h>
@@ -113,6 +90,26 @@ Myself an Engineer ♠⚜ <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ----
+<!--  <h1 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" height="40" style="margin-right: 10px;"> <b>Connect with me<b/> 🤝 </h1>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/bala-e/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<!--   <a href="https://www.instagram.com/im_sivasurender/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/Im_SivaSurender" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.facebook.com/bala.surender.7" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://sivasurender.github.io/BalaPortfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/My Portfolio-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" alt="Bio Badge"/>
+  </a> -->
+ 
+<!-- </div>
+<!--  <img align="center" src="https://komarev.com/ghpvc/?username=SivaSurender&style=flat-square&color=blue" alt=""/> -->
 
 <h1>Thank You! 🤵 </h1>
 <br>
