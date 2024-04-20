@@ -42,9 +42,10 @@ Here are some ideas to get you started:
   <a href="https://sivasurender.github.io/BalaPortfolio/" target="_blank">
     <img src="https://img.shields.io/badge/My Portfolio-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" alt="Bio Badge"/>
   </a> -->
+  <img align="center" src="https://komarev.com/ghpvc/?username=SivaSurender&style=flat-square&color=blue" alt=""/>
 </div>
 
-<img align="center" src="https://komarev.com/ghpvc/?username=SivaSurender&style=flat-square&color=blue" alt=""/>
+
 
 
 
